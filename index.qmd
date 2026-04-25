@@ -1,0 +1,89 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.hero-wrapper}
+
+::: {.columns}
+
+::: {.column width="40%"}
+
+![](images/profile.jpg){.hero-image}
+
+:::
+
+::: {.column width="60%"}
+
+# Hi, I'm Esha Esha
+
+## Business Studies Student at Dublin City University
+
+### Future Business Analyst | Strategic Thinker | Global Mindset
+
+I am passionate about business analytics, strategy, consumer behaviour, and innovation. I combine academic learning with practical work experience across Ireland and India.
+
+My goal is to build an international career where data, creativity, and leadership create real business impact.
+
+[Download CV](cv/Esha_CV.pdf){.btn .btn-primary .btn-lg target="_blank"}
+[View Projects](projects/index.qmd){.btn .btn-outline-dark .btn-lg}
+[Contact Me](contact.qmd){.btn .btn-success .btn-lg}
+
+<br><br>
+
+::: {.stats-grid}
+
+::: {.stat-box}
+### 2+
+Countries Worked In
+:::
+
+::: {.stat-box}
+### 10+
+Key Skills
+:::
+
+::: {.stat-box}
+### 3
+University Societies
+:::
+
+::: {.stat-box}
+### Analytics
+Specialisation
+:::
+
+:::
+
+:::
+
+:::
+
+:::
+
+---
+
+## Why Choose Me
+
+::: {.columns}
+
+::: {.column width="33%"}
+### Data Driven
+
+I enjoy transforming information into insights that support better decisions.
+:::
+
+::: {.column width="33%"}
+### Creative Thinker
+
+I combine business logic with innovation and presentation skills.
+:::
+
+::: {.column width="33%"}
+### Global Perspective
+
+Experience across Ireland and India has built adaptability and confidence.
+:::
+
+:::

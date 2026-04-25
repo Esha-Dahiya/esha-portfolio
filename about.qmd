@@ -1,0 +1,72 @@
+---
+title: "About Me"
+page-layout: full
+---
+
+# About Me
+
+Hello, I am Esha Esha, a Business Studies student at Dublin City University with a strong interest in business strategy, analytics, marketing, and international growth.
+
+I enjoy combining academic learning with real world experience and creative thinking to solve business challenges.
+
+## My Academic Journey
+
+At DCU, I study subjects such as:
+
+- Business Management  
+- Marketing  
+- Finance  
+- Economics  
+- Consumer Behaviour  
+- Strategy  
+- Data Analysis  
+- Organisational Behaviour  
+
+In third year, my specialisation is focused on **Business Analytics**, where I am developing skills in data driven decision making and commercial intelligence.
+
+## Student Life at DCU
+
+I actively participate in university communities including:
+
+- Rock Climbing Club  
+- Red Brick Society (Coding Society)  
+- Fashion Society  
+
+These experiences help me build teamwork, confidence, creativity, and networking skills.
+
+## Work Experience
+
+Alongside studies, I have gained practical experience through part time roles in:
+
+- Customer Service at Domino’s, Dublin  
+- Retail Sales at Reliance Digital  
+- Hospitality support roles  
+
+These positions strengthened my communication, adaptability, customer handling, and commercial awareness.
+
+## Key Skills
+
+- Excel  
+- Power BI  
+- Canva  
+- Data Visualisation  
+- Market Research  
+- Team Leadership  
+- Communication  
+- GitHub  
+- Quarto  
+- Problem Solving  
+
+## Hobbies and Interests
+
+Outside academics, I enjoy:
+
+- Gym and fitness  
+- Badminton  
+- Pottery and creativity  
+- Fashion trends  
+- Personal development  
+
+## Career Goal
+
+To build an international career in consulting, analytics, or brand strategy where I can combine business thinking with innovation.
