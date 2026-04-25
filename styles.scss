@@ -254,3 +254,33 @@ footer {
   padding-top: 30px;
   padding-bottom: 20px;
 }
+.counter-box {
+  background: white;
+  padding: 25px;
+  border-radius: 18px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  transition: 0.3s ease;
+}
+
+.counter-box:hover {
+  transform: translateY(-8px);
+}
+
+.counter-box h2 {
+  font-size: 2.4rem;
+  font-weight: 800;
+
+  background: linear-gradient(90deg, #ff006e, #8338ec, #3a86ff);
+
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+.counter-box p {
+  margin-top: 10px;
+  font-weight: 600;
+}
