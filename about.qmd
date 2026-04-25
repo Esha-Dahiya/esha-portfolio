@@ -1,70 +1,219 @@
 ---
 title: "About Me"
 page-layout: full
+toc: true
 ---
 
-Hello, I am Esha Esha, a Business Studies student at Dublin City University with a strong interest in business strategy, analytics, marketing, and international growth.
+## Personal Introduction
 
-I enjoy combining academic learning with real world experience and creative thinking to solve business challenges.
+Hello, I am **Esha Esha**, a Business Studies student at **Dublin City University** with a strong passion for business growth, analytics, innovation, and strategy.
 
-## My Academic Journey
+My university journey is helping me combine academic learning with practical experience to build a successful international career.
 
-At DCU, I study subjects such as:
+::: {.callout-note}
+I believe success comes through discipline, continuous learning, confidence, and creativity.
+:::
 
-- Business Management  
+---
+
+## Education
+
+## Dublin City University
+
+- Degree: Business Studies  
+- Current Stage: Year 3  
+- Specialisation: Analytics  
+
+### Academic Focus Areas
+
+- Business Analytics  
 - Marketing  
-- Finance  
-- Economics  
 - Consumer Behaviour  
-- Strategy  
-- Data Analysis  
-- Organisational Behaviour  
+- Strategic Management  
+- International Business  
+- Data Driven Decision Making  
 
-In third year, my specialisation is focused on **Business Analytics**, where I am developing skills in data driven decision making and commercial intelligence.
+---
 
-## Student Life at DCU
+## Professional Experience
 
-I actively participate in university communities including:
+Alongside university, I have gained part time work experience which has strengthened my practical business skills.
 
-- Rock Climbing Club  
-- Red Brick Society (Coding Society)  
-- Fashion Society  
+### Workplace Skills Developed
 
-These experiences help me build teamwork, confidence, creativity, and networking skills.
+- Customer service excellence  
+- Team collaboration  
+- Communication skills  
+- Handling pressure  
+- Time management  
+- Professional responsibility  
+- Problem solving  
 
-## Work Experience
+This experience has improved my confidence and readiness for the corporate environment.
 
-Alongside studies, I have gained practical experience through part time roles in:
+---
 
-- Customer Service at Domino’s, Dublin  
-- Retail Sales at Reliance Digital  
-- Hospitality support roles  
+## Core Skills
 
-These positions strengthened my communication, adaptability, customer handling, and commercial awareness.
+::: {.columns}
 
-## Key Skills
+::: {.column width="50%"}
 
+### Business & Technical Skills
+
+- Business Analytics  
 - Excel  
 - Power BI  
-- Canva  
 - Data Visualisation  
+- Dashboard Reporting  
 - Market Research  
-- Team Leadership  
+- Strategic Thinking  
+- Marketing Analysis  
+
+:::
+
+::: {.column width="50%"}
+
+### Professional Skills
+
 - Communication  
-- GitHub  
-- Quarto  
+- Leadership  
+- Teamwork  
 - Problem Solving  
+- Adaptability  
+- Critical Thinking  
+- Presentation Skills  
+- Time Management  
 
-## Hobbies and Interests
+:::
 
-Outside academics, I enjoy:
+:::
 
-- Gym and fitness  
+---
+
+## Student Life and Activities
+
+At DCU, I actively participate in student communities that support both technical and personal growth.
+
+::: {.columns}
+
+::: {.column width="33%"}
+
+![](images/redbrick.jpg){width="100%" fig-alt="Redbrick Society"}
+
+### Red Brick Society
+
+Coding society where I explore technology, innovation, networking, and problem solving.
+
+**Skills Built**
+
+- Digital mindset  
+- Collaboration  
+- Technical curiosity  
+
+:::
+
+::: {.column width="33%"}
+
+![](images/fs.jpg){width="100%" fig-alt="Fashion Society"}
+
+### Fashion Society
+
+Creativity, confidence, networking, branding, and student events.
+
+**Skills Built**
+
+- Creativity  
+- Confidence  
+- Presentation  
+
+:::
+
+::: {.column width="33%"}
+
+![](images/dcu.jpg){width="100%" fig-alt="Rock Climbing"}
+
+### Rock Climbing
+
+Fitness, resilience, teamwork, discipline, and challenge mindset.
+
+**Skills Built**
+
+- Focus  
+- Determination  
+- Fitness  
+
+:::
+
+:::
+
+---
+
+## Beyond Academics
+
+::: {.columns}
+
+::: {.column width="55%"}
+
+I enjoy activities that help me remain creative, healthy, and disciplined.
+
+### Interests
+
+- Gym training  
 - Badminton  
-- Pottery and creativity  
+- Pottery  
 - Fashion trends  
+- Networking  
 - Personal development  
+- Travel and new experiences  
+
+These hobbies help me maintain a balanced and growth oriented lifestyle.
+
+:::
+
+::: {.column width="45%"}
+
+![](images/pottery.jpg){width="100%"}
+
+:::
+
+:::
+
+---
+
+## Strength Profile
+
+| Area | Strength | Value |
+|------|----------|-------|
+| Business | Strategic Thinking | Better decisions |
+| Data | Analytics & Reporting | Clear insights |
+| People | Communication | Strong teamwork |
+| Digital | Modern Tools | Efficiency |
+| Growth | Adaptability | Continuous progress |
+
+---
 
 ## Career Goal
 
-To build an international career in consulting, analytics, or brand strategy where I can combine business thinking with innovation.
+My goal is to build a successful international career in:
+
+- Business Analytics  
+- Consulting  
+- Strategic Management  
+- Growth Focused Corporate Roles  
+
+I aim to create measurable value for organisations through data driven decisions and innovation.
+
+---
+
+## Connect With Me
+
+### Professional Profiles
+
+- LinkedIn: [View Profile](https://www.linkedin.com/in/esha-2a036532a)
+
+- GitHub: [View Portfolio Code](https://github.com/Esha-Dahiya)
+
+::: {.callout-tip}
+I am always open to networking, collaborations, and career opportunities.
+:::
