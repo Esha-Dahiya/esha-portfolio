@@ -6,7 +6,7 @@ toc: true
 
 
 
-Developing this ePortfolio has been one of the most rewarding learning experiences of my university journey. It allowed me to combine business thinking, creativity, and digital skills into one professional platform that represents my identity and future ambitions.
+Developing this ePortfolio has been one of the most rewarding learning experiences of my university journey. It allowed me to combine business thinking, creativity, and digital skills into one professional platform that represents my identity and future ambitions.it made my web developement journey creative.
 
 ::: {.callout-note}
 This project was not only about creating a website. It was about building a professional presence for future career opportunities.
