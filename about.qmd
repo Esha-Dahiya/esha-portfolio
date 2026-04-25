@@ -3,8 +3,6 @@ title: "About Me"
 page-layout: full
 ---
 
-# About Me
-
 Hello, I am Esha Esha, a Business Studies student at Dublin City University with a strong interest in business strategy, analytics, marketing, and international growth.
 
 I enjoy combining academic learning with real world experience and creative thinking to solve business challenges.
